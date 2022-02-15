@@ -18,9 +18,10 @@ body {
 
 .score {
   position: absolute;
-  font-size: 3vmin;
+  font-size: 5vmin;
   right: 1vmin;
   top: 1vmin;
+  padding: 1rem;
 }
 
 .start-screen {
